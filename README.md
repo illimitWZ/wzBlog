@@ -1,2 +1,2 @@
-# wzBlog.github.io
+# wzBlog
 个人博客
